@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="oyun">
+</Property><Property Name="Solution File" Value="C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyun.sln">
+</Property><Property Name="User Options File" Value="C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyun.suo">
+</Property><Property Name="Date" Value="Friday, February 26, 2010">
+</Property><Property Name="Time" Value="23:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="oyun.sln" Description="File successfully backed up as C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyun.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="oyun.suo" Description="File successfully backed up as C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyun.suo.old">
+</Event><Event ErrorLevel="0" Project="oyunsdl" Source="oyunsdl\oyunsdl.vcproj" Description="Converting project file 'C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyunsdl\oyunsdl.vcproj'.">
+</Event><Event ErrorLevel="1" Project="oyunsdl" Source="oyunsdl\oyunsdl.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="oyunsdl" Source="oyunsdl\oyunsdl.vcproj" Description="Done converting to new project file 'C:\Users\cagatay\Projects\proje1-oyun\Proje\Kaynak Kodu\Oyun\oyunsdl\oyunsdl.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="oyunsdl" Source="oyunsdl\oyunsdl.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="oyun.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="oyun.sln" Description="Converted">
+</Event></UpgradeLog>

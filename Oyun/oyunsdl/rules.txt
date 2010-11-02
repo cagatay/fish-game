@@ -1,0 +1,52 @@
+
+
+
+CLIENT TARAFINDAN GÖNDERÝLENLER
+Not: Komutlarda geçen # deðerleri sayýlarý belirtmektedir. HEr komutun en sonunda > karakterinin konulmasýna özen gösterilmelidir
+
+
+
+
+
+Yeni baðlantý
+
+Yeni baðlantý kurulduðunda gönderilir, kullanýcýnýn ekran üstünde nereden giriþ yapacaðýný belirtmesi lazýmdýr
+
+	kullaniciadi>yenibaglanti>x>#>y>#>
+
+
+
+
+
+Baðlantý iptal
+
+Baðlantý kesildiðinde görülür, main sonuna eklenmesi lazým. disconnect seçeneði olmadýðý için main yeterli
+
+	kullaniciadi>baglantikes>
+
+
+
+Kullanýcý hareket
+
+Kullanýcý fare ile hareket ederken gönderilir
+
+	kullaniciadi>hareket>x>#>y>#>
+
+
+
+
+Kullanýcý küçük balýk yedi
+
+Kullanýcý bir küçük balýðý yediðinde gönderilir. Burada sonraki id, küçük balýðýn id sidir.
+
+	kullaniciadi>yedi>kbalik>id>	
+
+
+
+Kullanýcý kullanýcýyý yedi
+
+Kullanýcý bir diðer kullanýcýyý yediðinde konulur
+
+	kullaniciadi>yedi>kullanici>kullaniciadi>
+
+
